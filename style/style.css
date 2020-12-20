@@ -1,0 +1,504 @@
+@font-face {
+  font-family: 'Fieldwork';
+  src: url("../font/fieldwork/Fieldwork-Hum-Hair-Demo.otf") format("woff2");
+}
+
+header .navbar {
+  background-color: #1a1d2f;
+}
+
+header .navbar a {
+  font-size: 30px;
+  line-height: 30px;
+  color: #ffffff;
+  font-family: "Fieldwork";
+}
+
+header .navbar a img {
+  width: 136px;
+}
+
+header .navbar i {
+  color: #ffffff;
+  padding-right: 10px;
+}
+
+header .navbar p {
+  font-size: 14px;
+  line-height: 30px;
+  color: #ffffff;
+  font-family: "Fieldwork";
+  padding-left: 21px;
+  margin-bottom: 0;
+}
+
+#hero {
+  background: url(../img/hero.png);
+  height: 820px;
+  background-repeat: no-repeat;
+  padding-top: 25px;
+}
+
+#hero .hero-left {
+  text-align: left;
+  padding-top: 50px;
+}
+
+#hero .hero-left h3 {
+  font-size: 25px;
+  line-height: 35px;
+  color: #ffffff;
+  font-family: "Fieldwork";
+}
+
+#hero .hero-left h3 strong {
+  color: #75b924;
+}
+
+#hero .hero-left p {
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffffff;
+  font-family: "Fieldwork";
+}
+
+#hero .hero-left ul {
+  list-style: none;
+  list-style-position: inside;
+  padding-left: 0;
+  margin-bottom: 30px;
+}
+
+#hero .hero-left ul li {
+  font-size: 18px;
+  line-height: 35px;
+  color: #ffffff;
+  font-family: "Fieldwork";
+}
+
+#hero .hero-left ul li:before {
+  content: "\f00c";
+  font-family: FontAwesome;
+  display: inline-block;
+  color: #75b924;
+  padding-right: 10px;
+}
+
+#hero .hero-left h2 {
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: "Fieldwork";
+  margin-bottom: 30px;
+}
+
+#hero .hero-left h2 strong {
+  color: #75b924;
+}
+
+#hero .hero-left h4 {
+  font-size: 24px;
+  line-height: 35px;
+  color: #ffffff;
+  font-family: "Fieldwork";
+  margin-bottom: 30px;
+}
+
+#hero .inquiry-form {
+  background-color: #ffffff;
+  margin: 0 0px 0 60px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  -webkit-box-shadow: 7px 7px 0px 0px #595a5d;
+          box-shadow: 7px 7px 0px 0px #595a5d;
+}
+
+#hero .inquiry-form .form-top {
+  padding: 10px;
+  font-size: 18px;
+  line-height: 15px;
+  color: #000000;
+  font-family: "Fieldwork";
+  font-weight: 600;
+  background-color: #f3f5f9;
+  border-top-left-radius: 50px;
+}
+
+#hero .inquiry-form .form-top span {
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+  font-family: "Fieldwork";
+  font-weight: 300;
+}
+
+#hero .inquiry-form .form-top img {
+  margin-bottom: 10px;
+}
+
+#hero .inquiry-form .form-content {
+  background-color: #ffffff;
+  padding: 25px;
+  border-bottom-right-radius: 50px;
+}
+
+#hero .inquiry-form .form-content h6 {
+  font-size: 22px;
+  line-height: 41px;
+  color: #000000;
+  font-family: "Fieldwork";
+  font-weight: bold;
+  text-align: center;
+}
+
+#hero .inquiry-form .form-content .form-control {
+  margin-bottom: 8px;
+  height: 48px;
+  border: 1px solid #b7b7b7;
+}
+
+#hero .inquiry-form .form-content .form-control:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border: 1px solid #b7b7b7;
+}
+
+#hero .inquiry-form .form-content select {
+  background: url(../img/arrow.png) no-repeat 95% 50%;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+}
+
+#hero .inquiry-form .form-content button {
+  width: 285px;
+  height: 60px;
+  border-radius: 30px;
+  background-color: #3694eb;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  font-family: "Fieldwork";
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
+
+#hero .inquiry-form .form-content button:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+#hero .inquiry-form .learn {
+  padding-bottom: 15px;
+}
+
+#hero .inquiry-form .learn a {
+  text-decoration: underline;
+}
+
+#suitable h1 {
+  font-size: 38px;
+  line-height: 45px;
+  color: #000000;
+  font-family: "Fieldwork";
+  font-weight: bold;
+  margin-bottom: 54px;
+}
+
+#suitable img {
+  width: 96%;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  -webkit-box-shadow: 7px 7px 0px 0px #75b924;
+          box-shadow: 7px 7px 0px 0px #75b924;
+}
+
+#suitable h6 {
+  font-size: 30px;
+  line-height: 40px;
+  color: #75b924;
+  font-weight: bold;
+  font-family: "Fieldwork";
+  padding: 48px 10px 0 10px;
+}
+
+#suitable p {
+  font-size: 17px;
+  line-height: 27px;
+  color: #000000;
+  font-family: "Fieldwork";
+  padding: 0 20px;
+}
+
+#suitable button {
+  width: 292px;
+  height: 60px;
+  border-radius: 30px;
+  background-color: #3694eb;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 30px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: "Fieldwork";
+  border: 0;
+  margin: 100px 0;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+}
+
+#suitable button:hover {
+  color: #000000;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+}
+
+#about {
+  padding: 80px 0;
+  background-color: #f3f5f9;
+}
+
+#about h1 {
+  font-size: 38px;
+  line-height: 45px;
+  color: #1a1d2f;
+  font-weight: bold;
+  font-family: "Fieldwork";
+  text-align: center;
+  margin-bottom: 72px;
+}
+
+#about p {
+  font-size: 25px;
+  line-height: 35px;
+  color: #2a2e50;
+  font-family: "Fieldwork";
+  text-align: center;
+}
+
+#about .elements {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-top: 90px;
+  position: relative;
+}
+
+#about .elements p {
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 25px;
+  color: #13052b;
+  font-family: "Fieldwork";
+  text-align: left;
+  margin-top: 32px;
+}
+
+#about .elements h6 {
+  font-size: 22px;
+  line-height: 32px;
+  color: #75b924;
+  font-weight: bold;
+  font-family: "Fieldwork";
+  margin: 45px 0px 0 10px;
+}
+
+#about .elements .first {
+  width: 400px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #ffffff;
+  padding: 21px 25px;
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+#about .elements .first .elements_status {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 100px 20px;
+  width: 400px;
+  height: 415.5px;
+  font-size: 38px;
+  letter-spacing: 1px;
+  line-height: 48px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: "Fieldwork";
+  text-align: center;
+  -webkit-filter: drop-shadow(0 0 3.5px rgba(0, 0, 0, 0.5));
+          filter: drop-shadow(0 0 3.5px rgba(0, 0, 0, 0.5));
+  visibility: visible;
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.25);
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  -webkit-transition: opacity .2s, visibility .2s;
+  transition: opacity .2s, visibility .2s;
+}
+
+#about .elements .second {
+  width: 306px;
+  height: 305px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #ffffff;
+  padding: 30px;
+  margin-right: 30px;
+}
+
+#about .elements .third {
+  width: 605px;
+  height: 305px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #ffffff;
+  padding: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+#about .elements .last {
+  position: relative;
+  bottom: 79px;
+  width: 435px;
+  padding: 28px 50px;
+}
+
+#about .elements .four {
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #ffffff;
+  padding: 19px 30px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  position: relative;
+  top: 31px;
+}
+
+.show_mobile {
+  display: none !important;
+}
+
+@media (max-width: 768px) {
+  .show_mobile {
+    display: block !important;
+  }
+  .hide_mobile {
+    display: none !important;
+  }
+  header .navbar a {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  header .navbar p {
+    font-size: 12px;
+    line-height: 21px;
+    padding-left: 28px;
+  }
+  #hero {
+    background-size: cover;
+    height: 100%;
+    padding-bottom: 50px;
+  }
+  #hero .hero-left {
+    padding-top: 0;
+  }
+  #hero .hero-left h2 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 10px;
+  }
+  #hero .hero-left h4 {
+    font-size: 15px;
+    line-height: 21px;
+  }
+  #hero .hero-left p {
+    font-size: 15px;
+    line-height: 21px;
+  }
+  #hero .hero-left ul li {
+    font-size: 13px;
+    line-height: 30px;
+  }
+  #hero .hero-left h3 {
+    font-size: 23px;
+    line-height: 30px;
+  }
+  #hero .inquiry-form {
+    margin: 0;
+  }
+  #suitable h1 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  #suitable h6 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  #suitable p {
+    font-size: 15px;
+    line-height: 23px;
+    padding-bottom: 30px;
+  }
+  #suitable button {
+    margin: 25px 0;
+  }
+  #about p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  #about h1 {
+    margin-bottom: 30px;
+    font-size: 30px;
+  }
+  #about .elements p {
+    line-height: 20px;
+    font-size: 12px;
+  }
+  #about .elements h6 {
+    font-size: 20px;
+  }
+  #about .elements .first {
+    width: auto;
+    margin-right: 0px;
+  }
+  #about .elements .first .elements_status {
+    left: 16.5px;
+    padding: 99px 15px;
+    width: 91.5%;
+    height: 100%;
+    font-size: 32px;
+  }
+  #about .elements .first img {
+    width: 100%;
+  }
+  #about .elements .second {
+    margin-right: 0px;
+    width: auto;
+    height: auto;
+    margin-top: 30px;
+  }
+  #about .elements .third {
+    margin-right: 0px;
+    width: auto;
+    height: auto;
+    margin-top: 30px;
+  }
+  #about .elements .third img {
+    width: 100%;
+  }
+  #about .elements .last {
+    margin-top: 30px;
+    bottom: 0;
+    padding: 21px 25px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
